@@ -1,1 +1,1 @@
-# rest-verify-account
+# Rust Verify Account
